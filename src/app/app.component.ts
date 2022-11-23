@@ -1,10 +1,10 @@
-import { Component } from '@angular/core';
+import {Component} from '@angular/core';
 
 @Component({
   selector: 'app-root',
-  templateUrl: './app.component.html',
-  styleUrls: ['./app.component.css']
+  template: `
+    <!-- REPLACE ME -->
+  `
 })
 export class AppComponent {
-  title = 'experiment-angular-15-esbuild';
 }
